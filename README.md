@@ -1,11 +1,11 @@
-### 👋 Olá! Eu sou [Luís Gustavo]
+### 👋 Olá! Eu sou Luís Gustavo
 
 <br>
 
-- 🎓 Graduando em **[Ciência da Computação]** pela **[Universidade Federal de Alagoas(UFAL)]**.
+- 🎓 Graduando em **Ciência da Computação** pela **Universidade Federal de Alagoas(UFAL)**.
 - 🌱 Estudando e aprimorando minhas habilidades em **Django, DRF e Tecnologias Web**.
 - 💬 Me chame para falar sobre **Python, tecnologia e desenvolvimento de software**.
-- 📫 Como me encontrar: **[gustavoocorreia2005@gmail.com](mailto:gustavoocorreia2005@gmail.com)** ou pelo [LinkedIn](https://www.linkedin.com/in/luisgustavoco/).
+- 📫 Como me encontrar: **gustavoocorreia2005@gmail.com(mailto:gustavoocorreia2005@gmail.com)** ou pelo LinkedIn(https://www.linkedin.com/in/luisgustavoco/).
 
 <br>
 
