@@ -15,5 +15,3 @@
   <img src="https://skillicons.dev/icons?i=python,django,postgres,docker,git,html,css,bootstrap,js,flask" />
 </p>
 
-### 📊 Minhas Estatísticas do GitHub
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisGustavoCo&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
