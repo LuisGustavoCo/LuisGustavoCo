@@ -12,6 +12,6 @@
 ### 🛠️ Tecnologias e Ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,postgres,docker,git,html,css,bootstrap,js,flask" />
+  <img src="https://skillicons.dev/icons?i=python,django,postgres,docker,git,html,css,bootstrap,flask" />
 </p>
 
